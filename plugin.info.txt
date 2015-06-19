@@ -1,0 +1,7 @@
+base    ajaxtplpage
+author  iamchenxin
+email   iamchenxin@gmail.com
+date    2015-06-10
+name    ajaxtplpage
+desc    ajax template page
+url     http://dokuwiki.org/plugin:ajaxtplpage
